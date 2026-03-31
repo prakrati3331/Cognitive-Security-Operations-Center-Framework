@@ -22,6 +22,14 @@ The **Cognitive SOC Framework** is a cutting-edge, AI-powered Security Operation
 ## Deployed Project
 - **Link:** [ https://multi-agent-cognitive-soc-framework.onrender.com/ ]
 
+### 🌐 Live Project
+
+<p align="center">
+  <a href="https://multi-agent-cognitive-soc-framework.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Live%20Project-111?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+</p>
+
 ## 🏗️ Architecture
 
 ```
