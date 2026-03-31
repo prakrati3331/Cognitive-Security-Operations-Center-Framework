@@ -20,8 +20,6 @@ The **Cognitive SOC Framework** is a cutting-edge, AI-powered Security Operation
 - **Adaptive learning** through reinforcement learning
 
 ## Deployed Project
-- **Link:** [ https://multi-agent-cognitive-soc-framework.onrender.com/ ]
-
 ### 🌐 Live Project
 
 <p align="center">
