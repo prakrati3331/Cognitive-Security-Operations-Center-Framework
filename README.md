@@ -19,7 +19,6 @@ The **Cognitive SOC Framework** is a cutting-edge, AI-powered Security Operation
 - **Autonomous decision making** with confidence scoring
 - **Adaptive learning** through reinforcement learning
 
----
 
 ## Deployed Project
 ### 🌐 Live Project
