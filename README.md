@@ -19,6 +19,8 @@ The **Cognitive SOC Framework** is a cutting-edge, AI-powered Security Operation
 - **Autonomous decision making** with confidence scoring
 - **Adaptive learning** through reinforcement learning
 
+---
+
 ## Deployed Project
 ### 🌐 Live Project
 
@@ -27,6 +29,8 @@ The **Cognitive SOC Framework** is a cutting-edge, AI-powered Security Operation
     <img src="https://img.shields.io/badge/View%20Live%20Project-111?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ## 🏗️ Architecture
 
