@@ -13,8 +13,8 @@
 The **Cognitive SOC Framework** is a cutting-edge, AI-powered Security Operations Center platform that provides:
 
 - **Real-time anomaly detection** using ensemble ML models
-- **14 specialized AI agents** for comprehensive security analysis
-- **LLM-powered explanations** for incident understanding
+- **14 specialized AI agents** for the comprehensive security analysis
+- **LLM-powered explanations** for the incident understanding
 - **Live SOC dashboard** with real-time metrics and visualizations
 - **Autonomous decision making** with confidence scoring
 - **Adaptive learning** through reinforcement learning
